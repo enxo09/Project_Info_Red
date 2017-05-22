@@ -40,8 +40,9 @@ namespace ProyectoET
 
             string command = "ping "+URL;
 
-            MessageBox.Show("Haciendo un ping a: "+URL+"\n"+
-            "Solicitudes: "+requests,"Ping",MessageBoxButtons.OK,MessageBoxIcon.Exclamation);
+            //Mostrar mensajes de la accion a realizar
+            //MessageBox.Show("Haciendo un ping a: "+URL+"\n"+
+            //"Solicitudes: "+requests,"Ping",MessageBoxButtons.OK,MessageBoxIcon.Exclamation);
 
 
             comandosCMD obj = new comandosCMD(command);
