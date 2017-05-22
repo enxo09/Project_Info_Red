@@ -1,0 +1,9 @@
+C:\Users\Enzo\documents\visual studio 2013\Projects\ProyectoET\ProyectoET\bin\Release\ProyectoET.exe
+C:\Users\Enzo\documents\visual studio 2013\Projects\ProyectoET\ProyectoET\bin\Release\ProyectoET.pdb
+C:\Users\Enzo\documents\visual studio 2013\Projects\ProyectoET\ProyectoET\obj\Release\ProyectoET.csprojResolveAssemblyReference.cache
+C:\Users\Enzo\documents\visual studio 2013\Projects\ProyectoET\ProyectoET\obj\Release\ProyectoET.ingresar.resources
+C:\Users\Enzo\documents\visual studio 2013\Projects\ProyectoET\ProyectoET\obj\Release\ProyectoET.Administracion.resources
+C:\Users\Enzo\documents\visual studio 2013\Projects\ProyectoET\ProyectoET\obj\Release\ProyectoET.Properties.Resources.resources
+C:\Users\Enzo\documents\visual studio 2013\Projects\ProyectoET\ProyectoET\obj\Release\ProyectoET.csproj.GenerateResource.Cache
+C:\Users\Enzo\documents\visual studio 2013\Projects\ProyectoET\ProyectoET\obj\Release\ProyectoET.exe
+C:\Users\Enzo\documents\visual studio 2013\Projects\ProyectoET\ProyectoET\obj\Release\ProyectoET.pdb

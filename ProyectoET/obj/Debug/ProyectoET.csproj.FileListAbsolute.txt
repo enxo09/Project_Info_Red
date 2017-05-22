@@ -1,0 +1,12 @@
+C:\Users\Enzo\Documents\Visual Studio 2013\Projects\ProyectoET\ProyectoET\bin\Debug\ProyectoET.exe
+C:\Users\Enzo\Documents\Visual Studio 2013\Projects\ProyectoET\ProyectoET\bin\Debug\ProyectoET.pdb
+C:\Users\Enzo\Documents\Visual Studio 2013\Projects\ProyectoET\ProyectoET\obj\Debug\ProyectoET.ingresar.resources
+C:\Users\Enzo\Documents\Visual Studio 2013\Projects\ProyectoET\ProyectoET\obj\Debug\ProyectoET.Administracion.resources
+C:\Users\Enzo\Documents\Visual Studio 2013\Projects\ProyectoET\ProyectoET\obj\Debug\ProyectoET.Properties.Resources.resources
+C:\Users\Enzo\Documents\Visual Studio 2013\Projects\ProyectoET\ProyectoET\obj\Debug\ProyectoET.csproj.GenerateResource.Cache
+C:\Users\Enzo\Documents\Visual Studio 2013\Projects\ProyectoET\ProyectoET\obj\Debug\ProyectoET.exe
+C:\Users\Enzo\Documents\Visual Studio 2013\Projects\ProyectoET\ProyectoET\obj\Debug\ProyectoET.pdb
+C:\Users\Enzo\documents\visual studio 2013\Projects\ProyectoET\ProyectoET\bin\Debug\ProyectoET.exe.manifest
+C:\Users\Enzo\documents\visual studio 2013\Projects\ProyectoET\ProyectoET\bin\Debug\ProyectoET.application
+C:\Users\Enzo\documents\visual studio 2013\Projects\ProyectoET\ProyectoET\obj\Debug\ProyectoET.exe.manifest
+C:\Users\Enzo\documents\visual studio 2013\Projects\ProyectoET\ProyectoET\obj\Debug\ProyectoET.application
